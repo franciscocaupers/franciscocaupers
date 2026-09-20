@@ -1,11 +1,10 @@
 # Hey there 👋
 
-I'm **Francisco Caupers**, a second-year Data Science & Management student based in Portugal.
+I’m Francisco Caupers, a final-year Data Science & Management student based in Portugal.
 
-I'm interested in **Data Engineering, Data Analysis, and Machine Learning**.
-I enjoy exploring datasets, finding patterns, and building models that solve real problems.
+I’m interested in Data Engineering, Data Analysis and Machine Learning. I enjoy working with data, exploring patterns and building practical solutions to real problems.
 
-This is my GitHub where I share **projects, experiments, and things I'm currently learning**.
+This is where I share projects, experiments and things I’m currently learning.
 
 ---
 
@@ -31,4 +30,4 @@ This is my GitHub where I share **projects, experiments, and things I'm currentl
 
 ## Projects
 
-* **Credit Card Fraud Detection** – Machine learning model to detect fraudulent transactions.
+Credit Card Fraud Detection — Built and evaluated multiple machine learning models to detect fraudulent credit card transactions.
