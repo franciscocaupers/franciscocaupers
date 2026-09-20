@@ -30,4 +30,4 @@ This is where I share projects, experiments and things I’m currently learning.
 
 ## Projects
 
-Credit Card Fraud Detection — Built and evaluated multiple machine learning models to detect fraudulent credit card transactions.
+[**Credit Card Fraud Detection**](https://github.com/franciscocaupers/Final_project) — Built and evaluated multiple machine learning models to detect fraudulent credit card transactions.
